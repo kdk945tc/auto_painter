@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2679478e-e94b-4bea-b7d6-5e2255a69ea7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="guess_what" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W7Tuuoegg0yCnS8YO7urNEbWBX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.opencv+turtle">
+    <configuration name="QQguesswhat" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="guess_what" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QQguesswhat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QQguesswhatV2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="guess_what" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QQguesswhatV2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="guess_what" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list_in_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="guess_what" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_in_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opencv+turtle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="guess_what" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv+turtle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.opencv+turtle" />
+        <item itemvalue="Python.QQguesswhatV2" />
+        <item itemvalue="Python.list_in_class" />
+        <item itemvalue="Python.QQguesswhat" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2679478e-e94b-4bea-b7d6-5e2255a69ea7" name="Default Changelist" comment="" />
+      <created>1578499859384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578499859384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578500134914">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="230" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831/1920.-9.1549.831@0.0.1549.831" timestamp="1578500134914" />
+    <state width="1528" height="203" key="GridCell.Tab.0.bottom" timestamp="1578753125790">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1528" height="203" key="GridCell.Tab.0.bottom/0.0.1549.831/1920.-9.1549.831@0.0.1549.831" timestamp="1578753125790" />
+    <state width="1528" height="203" key="GridCell.Tab.0.bottom/0.0.1549.831/1920.-9.1549.831@1920.-9.1549.831" timestamp="1578688553477" />
+    <state width="1528" height="204" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1578676402618" />
+    <state width="1528" height="203" key="GridCell.Tab.0.center" timestamp="1578753125790">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1528" height="203" key="GridCell.Tab.0.center/0.0.1549.831/1920.-9.1549.831@0.0.1549.831" timestamp="1578753125790" />
+    <state width="1528" height="203" key="GridCell.Tab.0.center/0.0.1549.831/1920.-9.1549.831@1920.-9.1549.831" timestamp="1578688553477" />
+    <state width="1528" height="204" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1578676402618" />
+    <state width="1528" height="203" key="GridCell.Tab.0.left" timestamp="1578753125790">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1528" height="203" key="GridCell.Tab.0.left/0.0.1549.831/1920.-9.1549.831@0.0.1549.831" timestamp="1578753125790" />
+    <state width="1528" height="203" key="GridCell.Tab.0.left/0.0.1549.831/1920.-9.1549.831@1920.-9.1549.831" timestamp="1578688553477" />
+    <state width="1528" height="204" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1578676402618" />
+    <state width="1528" height="203" key="GridCell.Tab.0.right" timestamp="1578753125790">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1528" height="203" key="GridCell.Tab.0.right/0.0.1549.831/1920.-9.1549.831@0.0.1549.831" timestamp="1578753125790" />
+    <state width="1528" height="203" key="GridCell.Tab.0.right/0.0.1549.831/1920.-9.1549.831@1920.-9.1549.831" timestamp="1578688553477" />
+    <state width="1528" height="204" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1578676402618" />
+    <state x="2204" y="49" key="SettingsEditor" timestamp="1578687490138">
+      <screen x="1920" y="-9" width="1549" height="831" />
+    </state>
+    <state x="284" y="58" key="SettingsEditor/0.0.1549.831/1920.-9.1549.831@0.0.1549.831" timestamp="1578500157113" />
+    <state x="2204" y="49" key="SettingsEditor/0.0.1549.831/1920.-9.1549.831@1920.-9.1549.831" timestamp="1578687490138" />
+    <state x="2383" y="13" width="622" height="786" key="find.popup" timestamp="1578579506986">
+      <screen x="1920" y="-9" width="1549" height="831" />
+    </state>
+    <state x="2383" y="13" width="622" height="786" key="find.popup/0.0.1549.831/1920.-9.1549.831@1920.-9.1549.831" timestamp="1578579506986" />
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1578662782853">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="437" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1578662782853" />
+  </component>
+</project>
